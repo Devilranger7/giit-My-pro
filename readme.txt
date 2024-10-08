@@ -1,5 +1,5 @@
 Welcome to github 
 
- Author:Shahid
+Author:Shahid
 website :https
 Github https://github.com/Devilranger7/giit-My-pro.git
